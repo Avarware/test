@@ -6,4 +6,4 @@ permalink: /eee/
 # another page
 how a
 
-[back](./)
+[back](/test/)
