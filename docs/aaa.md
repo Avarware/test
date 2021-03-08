@@ -3,3 +3,5 @@ title: "rrfjg"
 permalink: /eee/
 # another page
 how
+
+[back](./)
