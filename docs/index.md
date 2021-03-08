@@ -1,4 +1,3 @@
-https://github.com/parsiad/mlinterp/archive/v0.1.zip
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Avarware/test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
